@@ -15,7 +15,7 @@ ecommerce-project/
 │ ├── manage.py
 │ ├── ecomerce_app
 │ ├── ecomproject
-│ └── ...
+│ └── db.sqlite3
 │
 ├── frontend/ # React frontend using Vite
 │ ├── index.html
@@ -24,8 +24,7 @@ ecommerce-project/
 │ │ ├── components/
 │ │ ├── pages/
 │ │ ├── App.jsx
-│ │ └── ...
-└── ...
+└── 
 ---
 ```
 ## 🚀 Getting Started
