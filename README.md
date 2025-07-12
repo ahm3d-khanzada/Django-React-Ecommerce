@@ -21,10 +21,13 @@ A full-stack e-commerce web application built using:
 ```bash
 git clone https://github.com/yourusername/ecommerce-project.git
 cd ecommerce-project
-
+```
+```bash
 cd frontend
 npm install
-
+```
+```bash
 cd backend
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
+```
