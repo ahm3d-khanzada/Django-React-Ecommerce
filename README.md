@@ -9,25 +9,7 @@ A full-stack e-commerce web application built using:
 
 ---
 
-## 📁 Project Structure
 
-ecommerce-project/
-│
-├── backend/ # Django backend
-│ ├── manage.py
-│ ├── backend/ # Django project settings
-│ ├── api/ # App for API endpoints
-│ └── ...
-│
-├── frontend/ # React frontend using Vite
-│ ├── index.html
-│ ├── vite.config.js
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── App.jsx
-│ │ └── ...
-└── ...
 
 
 ---
@@ -39,3 +21,10 @@ ecommerce-project/
 ```bash
 git clone https://github.com/yourusername/ecommerce-project.git
 cd ecommerce-project
+
+cd frontend
+npm install
+
+cd backend
+python -m venv venv
+source venv/bin/activate        # On Windows: venv\Scripts\activate
