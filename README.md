@@ -35,6 +35,8 @@ ecommerce-project/
 git clone https://github.com/yourusername/ecommerce-project.git
 cd ecommerce-project
 ```
+🖥️ Frontend Setup (React + Vite)
+📦 Install Frontend Dependencies
 ```bash
 cd frontend
 npm install
