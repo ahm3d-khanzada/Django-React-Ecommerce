@@ -12,8 +12,8 @@ ecommerce-project/
 │
 ├── backend/ # Django backend
 │ ├── manage.py
-│ ├── backend/ # Django project settings
-│ ├── api/ # App for API endpoints
+│ ├── ecomerce_app
+│ ├── ecomproject
 │ └── ...
 │
 ├── frontend/ # React frontend using Vite
