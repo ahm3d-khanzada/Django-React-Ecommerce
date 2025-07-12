@@ -8,10 +8,23 @@ A full-stack e-commerce web application built using:
 - 🌐 **CORS** configuration to connect frontend and backend seamlessly
 
 ---
-
-
-
-
+ecommerce-project/
+│
+├── backend/ # Django backend
+│ ├── manage.py
+│ ├── backend/ # Django project settings
+│ ├── api/ # App for API endpoints
+│ └── ...
+│
+├── frontend/ # React frontend using Vite
+│ ├── index.html
+│ ├── vite.config.js
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── App.jsx
+│ │ └── ...
+└── ...
 ---
 
 ## 🚀 Getting Started
