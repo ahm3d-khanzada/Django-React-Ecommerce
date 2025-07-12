@@ -41,8 +41,15 @@ cd ecommerce-project
 cd frontend
 npm install
 ```
+▶️ Run Frontend Development Server
 ```bash
 cd backend
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 ```
+Frontend will be available at:
+📍 http://localhost:5173
+
+---
+🛠️ Backend Setup (Django + DRF)
+📦 Create Virtual Environment & Activate
