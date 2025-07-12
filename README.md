@@ -43,9 +43,9 @@ npm install
 ```
 ▶️ Run Frontend Development Server
 ```bash
-cd backend
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+npm run dev
+# or
+npx vite
 ```
 Frontend will be available at:
 📍 http://localhost:5173
@@ -53,3 +53,9 @@ Frontend will be available at:
 ---
 🛠️ Backend Setup (Django + DRF)
 📦 Create Virtual Environment & Activate
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+
+```
