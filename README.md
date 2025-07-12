@@ -8,6 +8,7 @@ A full-stack e-commerce web application built using:
 - 🌐 **CORS** configuration to connect frontend and backend seamlessly
 
 ---
+```bash
 ecommerce-project/
 │
 ├── backend/ # Django backend
@@ -26,7 +27,7 @@ ecommerce-project/
 │ │ └── ...
 └── ...
 ---
-
+```
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
