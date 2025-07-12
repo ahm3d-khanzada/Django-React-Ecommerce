@@ -108,10 +108,10 @@ CORS_ALLOWED_ORIGINS = [
 
 - Admin Product Management
 ---
- ##📄 License
+#📄 License
 This project is open-source and available under the MIT License.
 ---
-##🙋‍♂️ Author
+#🙋‍♂️ Author
 Ahmed Khan
 📫 Reach out via GitHub or email for collaboration or queries.
 ---
